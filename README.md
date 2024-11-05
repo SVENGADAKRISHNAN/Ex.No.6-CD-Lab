@@ -60,10 +60,12 @@ int main() {
 # OUTPUT
 
 ## k.txt File
-![txt-file](Ex6(k.txt).png)
+![image](https://github.com/user-attachments/assets/7e1d7df1-1e4c-499f-80dc-169c2142e662)
+
 
 ## Program Output
-![ex6](Ex6.png)
+![image](https://github.com/user-attachments/assets/012915af-66e2-4afa-8a32-7720492428f6)
+
 
 # Result
 The back end of the compiler is implemented successfully, and the output is verified.
